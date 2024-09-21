@@ -2,7 +2,7 @@
 
 # Zee Lavenhouse Zeehlavenhouse@gmail.com
 
-# Github aacount: Personal account to showcase projects
+# Github account: Personal account to showcase projects
 
 # This repository: Created for CTI 110 Lesson 5 Lab
 
